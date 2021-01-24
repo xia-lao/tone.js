@@ -1,0 +1,1 @@
+exercises for playing microtonal music using jwerty lib for keyboard events and Tone.js for microtonal tuning
